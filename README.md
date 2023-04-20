@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assets/images/logo.jpg" width="300" alt="Python" /></a>
+  <img src="./assets/images/logo.png" width="400" alt="Python" /></a>
 </p>
 
 # ChatBot-ChatGPT
